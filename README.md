@@ -44,3 +44,9 @@ trailpad stats
 
 - Linux/macOS: `trailpad`
 - Windows: `trailpad.exe`
+
+## Release
+
+- Current release: `v0.1.0`
+- Changelog: [`CHANGELOG.md`](./CHANGELOG.md)
+- Release workflow: [`.github/workflows/release.yml`](./.github/workflows/release.yml)
