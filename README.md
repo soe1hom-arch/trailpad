@@ -49,3 +49,9 @@ trailpad stats
 
 - Current release: `v0.1.0`
 - Changelog: [`CHANGELOG.md`](./CHANGELOG.md)
+
+---
+
+## 📄 License
+
+MIT — © 2026 Wandi (soe1hom-arch). See [LICENSE](LICENSE) for details.
